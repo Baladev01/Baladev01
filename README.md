@@ -21,8 +21,7 @@ Here are some key projects you can explore:
 - **[HTML Guide](https://github.com/Baladev01/HTML_Guide)** – Beginner-friendly HTML tutorials and examples.  
 - **[CSS Guide](https://github.com/Baladev01/CSS_Guide)** – Step-by-step CSS guide with examples.  
 - **[Bootstrap Guide](https://github.com/Baladev01/Bootstrap_Guide)** – Bootstrap 5 tutorials and components.  
-- **[MySQL Interview Prep](https://github.com/Baladev01/MySQL_Interview)** – Curated questions and answers for MySQL interviews.  
-- **[JavaScript Task Repository](https://github.com/Baladev01/Javascript_Task)** – Various JS exercises for skill improvement.  
+- **[MySQL Interview Prep](https://github.com/Baladev01/MySQL_Interview)** – Curated questions and answers for MySQL interviews.   
 
 ---
 
