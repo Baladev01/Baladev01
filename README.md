@@ -1,65 +1,60 @@
-# 👨‍💻 C. Balamurugan
-**Emerging Full Stack Web Developer | Frontend Specialist | Backend Learner ⚡**
+# 👨‍💻 C. Balamurugan – Emerging Full Stack Web Developer | Frontend Specialist | Backend Learner ⚡
 
-Hi there! 👋 I’m **C. Balamurugan**, a passionate web developer transitioning from a non-IT background into tech.  
-I specialize in **frontend development** and am currently **learning backend development** to build **full-stack web solutions**.
+Hi there! 👋 I’m **C. Balamurugan**, a passionate web developer transitioning from a non-IT background into tech. I specialize in frontend development and am currently learning backend development to build full-stack web solutions.
 
 ---
 
 ## 💻 Tech Stack
-🖥️ **Frontend:** HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎  
-🗄️ **Database:** MySQL  
-🔧 **Backend:** Learning Backend Development  
+
+- **Frontend:** HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎
+- **Database:** MySQL 🗄️
+- **Backend:** Learning 🔧 Backend Development
 
 ---
 
 ## 🚀 Key Projects
-🏥 **Loklin Healthcare Platform** – Full-stack healthcare web application  
-✅ **Registration / To-Do Task Form** – Interactive task manager (HTML, Bootstrap & JS)  
-🗄️ **MySQL Guide & Mini Projects** – Beginner-friendly SQL resources  
-🎨 **Bootstrap & Frontend Projects** – Responsive web designs & reusable components  
-📄 **HTML & CSS Guides** – Structured tutorials for frontend learners  
-💡 **Future Projects:** Full-stack, AI-integrated, real-world web solutions 🌐  
+
+- 🏥 **Loklin Healthcare Platform** – Full-stack healthcare web application
+- ✅ **Registration Form (To-Do Task Form)** – Interactive task manager with HTML, Bootstrap & JS
+- 🗄️ **MySQL Guide & Mini Projects** – Beginner-friendly SQL resources
+- 🎨 **Bootstrap & Frontend Projects** – Responsive web designs & reusable components
+- 📄 **HTML & CSS Guides** – Structured tutorials for frontend learners
+- 💡 **Future Projects:** Full-stack, AI-integrated, and real-world web solutions 🌐
 
 ---
 
 ## 🌱 Background & Drive
-🎓 Non-IT background (Mechanical Engineering)  
-🔥 Transitioned into tech with **resilience, curiosity & dedication**  
-📈 Passionate about **continuous learning & building real-world solutions**  
+
+Coming from a non-IT background (Mechanical Engineering) 🎓, I embraced coding with resilience, curiosity, and dedication. I thrive on continuous learning 📈 and aim to leverage technology 🌐 to solve real-world problems.
 
 ---
 
-## 🎯 Opportunities I’m Looking For
-💼 Internships | 👨‍💻 Junior Developer roles | 🌟 Freelance projects  
+## 🎯 Looking For
+
+- Internships 💼
+- Junior Developer roles 👨‍💻
+- Freelance projects 🌟
 
 ---
 
 ## ✨ Highlights
-✅ Clean, scalable, and responsive web applications  
-🧠 Strong problem-solving & analytical skills  
-⚡ Quick learner | 🌊 Adaptable | 💪 Challenge-driven  
-🔄 Successfully transitioned from a non-IT background  
+
+- Building **clean, scalable, and responsive web applications** ✅
+- Strong **problem-solving & analytical skills** 🧠
+- Quick learner ⚡ | Adaptable 🌊 | Eager to take on challenges 💪
+- Proven ability to **transition from a non-IT background** successfully 🔄
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baladev01&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baladev01&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baladev01&theme=radical)  
+## 📫 Connect with Me
 
----
-
-## 😂 Developer Meme / Fun
-![Life Meme](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
-## 📫 Connect With Me
-📧 bala032000@gmail.com | 📞 +91‑9487615909  
-🔗 [GitHub](https://github.com/Baladev01) | 💼 [LinkedIn](https://linkedin.com/in/balamurugan-webdeveloper)  
+- 📧 **Email:** bala032000@gmail.com
+- 📞 **Phone:** +91‑9487615909
+- 🔗 **GitHub:** [github.com/Baladev01](https://github.com/Baladev01)
+- 💼 **LinkedIn:** [linkedin.com/in/balamurugan-webdeveloper](https://linkedin.com/in/balamurugan-webdeveloper)
 
 ---
 
 ## 🎓 Education
-B.Tech in Mechanical Engineering – Pondicherry University, 2021 🎓
+
+- B.Tech in Mechanical Engineering – Pondicherry University, 2021 🎓
