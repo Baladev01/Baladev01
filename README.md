@@ -58,5 +58,3 @@ Coming from a non-IT background (Mechanical Engineering) 🎓, I embraced coding
 ## 🎓 Education  
 
 - B.Tech in Mechanical Engineering – Pondicherry University, 2021 🎓
-
-- B.Tech in Mechanical Engineering – Pondicherry University, 2021 🎓
