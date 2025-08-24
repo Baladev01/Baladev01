@@ -51,7 +51,7 @@ I specialize in **frontend development** and am currently **learning backend dev
 ---
 
 ## 😂 Developer Meme / Fun
-![Coding Meme](https://i.imgflip.com/5zn6tz.jpg)
+![Life Meme](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
