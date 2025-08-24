@@ -1,7 +1,5 @@
 # 👨‍💻 C. Balamurugan – Emerging Full Stack Web Developer | Frontend Specialist | Backend Learner ⚡
 
-<img src="https://github.com/Baladev01/assets/blob/main/profile.jpg?raw=true" width="150" style="border-radius:50%;">
-
 Hi there! 👋 I’m **C. Balamurugan**, a passionate web developer transitioning from a non-IT background into tech. I specialize in frontend development and am currently learning backend development to build full-stack web solutions.
 
 ---
