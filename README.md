@@ -1,64 +1,68 @@
-# 👨‍💻 C. Balamurugan – Emerging Full Stack Web Developer | Frontend Specialist | Backend Learner ⚡
+# 👨‍💻 C. Balamurugan  
 
-Hi there! 👋 I’m **C. Balamurugan**, a passionate web developer transitioning from a non-IT background into tech. I specialize in frontend development and am currently learning backend development to build full-stack web solutions.
+**💡 Emerging Full Stack Web Developer | 🎨 Frontend Specialist | ☕ Backend (Java) Learner**  
 
----
-
-## 💻 Tech Stack
-
-- **Frontend:** HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎
-- **Database:** MySQL 🗄️
-- **Backend:** Learning 🔧 Backend Development
+Hi there! 👋  
+I’m **C. Balamurugan**, a motivated developer who transitioned from a **Mechanical Engineering background** 🔧 into the world of **software development** 💻.  
+I love building **responsive, scalable, and user-friendly applications** 🚀.  
 
 ---
 
-## 🚀 Projects
-Here are some key projects you can explore:
+## 💻 Tech Stack  
 
-- **[Loklin Healthcare Platform](https://github.com/Baladev01/My_Loklin_Project)** – Full-stack healthcare web app to manage appointments, doctors, and patients.  
-- **[Registration Form (To-Do Task Form)](https://github.com/Baladev01/To-Do-Form)** – Interactive task manager built with HTML, CSS, and JavaScript.  
-- **[Stylish Calculator](https://github.com/Baladev01/Stylish-Calculator)** – Modern calculator with attractive UI.  
-- **[HTML Guide](https://github.com/Baladev01/HTML_Guide)** – Beginner-friendly HTML tutorials and examples.  
-- **[CSS Guide](https://github.com/Baladev01/CSS_Guide)** – Step-by-step CSS guide with examples.  
-- **[Bootstrap Guide](https://github.com/Baladev01/Bootstrap_Guide)** – Bootstrap 5 tutorials and components.  
-- **[MySQL Interview Prep](https://github.com/Baladev01/MySQL_Interview)** – Curated questions and answers for MySQL interviews.   
+- 🎨 **Frontend:** HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎  
+- 🗄️ **Database:** MySQL 📊  
+- ☕ **Backend:** Java (Spring Boot & APIs – Learning in Progress)  
 
 ---
 
-## 🌱 Background & Drive
+## 🚀 Featured Projects  
 
-Coming from a non-IT background (Mechanical Engineering) 🎓, I embraced coding with resilience, curiosity, and dedication. I thrive on continuous learning 📈 and aim to leverage technology 🌐 to solve real-world problems.
-
----
-
-## 🎯 Looking For
-
-- Internships 💼
-- Junior Developer roles 👨‍💻
-- Freelance projects 🌟
+🔹 [**Loklin Healthcare Platform**](https://github.com/Baladev01/My_Loklin_Project) – Manage doctors, patients, and appointments 🏥  
+🔹 [**Registration Form (To-Do Task Manager)**](https://github.com/Baladev01/To-Do-Form) – Interactive task manager 📝  
+🔹 [**Stylish Calculator**](https://github.com/Baladev01/Stylish-Calculator) – Modern calculator with rich UI 🧮  
+🔹 [**Guides (HTML, CSS, Bootstrap)**](https://github.com/Baladev01) – Beginner-friendly tutorials 📘  
+🔹 [**MySQL Interview Prep**](https://github.com/Baladev01/MySQL_Interview) – 100+ curated interview Q&A ❓  
 
 ---
 
-## ✨ Highlights
+## 🌱 My Journey & Drive  
 
-- Building **clean, scalable, and responsive web applications** ✅
-- Strong **problem-solving & analytical skills** 🧠
-- Quick learner ⚡ | Adaptable 🌊 | Eager to take on challenges 💪
-- Proven ability to **transition from a non-IT background** successfully 🔄
-
----
-
-## 📫 Connect with Me
-
-- 📧 **Email:** bala032000@gmail.com
-- 📞 **Phone:** +91‑9487615909
-- 🔗 **GitHub:** [github.com/Baladev01](https://github.com/Baladev01)
-- 💼 **LinkedIn:** [linkedin.com/in/balamurugan-webdeveloper](https://linkedin.com/in/balamurugan-webdeveloper)
+- 🎓 **Mechanical Engineer (2021, Pondicherry University)** → turned Web Developer 💻  
+- 🔑 Self-driven learner mastering **Frontend → Backend (Java)** step by step  
+- 📈 Passionate about **continuous learning** & solving real-world problems 🌐  
 
 ---
 
-### ⚡ Fun Fact
+## 🎯 What I’m Looking For  
 
-I hold a **Bachelor’s degree in Mechanical Engineering ,2021** from Pondicherry University and am now fully dedicated to **web development**.  
+- 💼 **Internships** → Hands-on industry exposure  
+- 👨‍💻 **Junior Developer Roles** → Kickstart my career in full-stack development  
+- 🌟 **Freelance Projects** → Apply & expand my skills  
+
+---
+
+## ✨ Why Hire Me?  
+
+✔️ Build **clean & scalable web apps**  
+✔️ Strong **Frontend + Database** foundation  
+✔️ ☕ Expanding in **Java backend**  
+✔️ ⚡ Quick learner | 🧩 Problem-solver | 🌊 Adaptable  
+✔️ 🚀 Proven career shift: **Non-IT → IT with success**  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 **Email:** [bala032000@gmail.com](mailto:bala032000@gmail.com)  
+- 📞 **Phone:** +91-9487615909  
+- 🔗 **GitHub:** [github.com/Baladev01](https://github.com/Baladev01)  
+- 💼 **LinkedIn:** [linkedin.com/in/balamurugan-webdeveloper](https://linkedin.com/in/balamurugan-webdeveloper)  
+
+---
+
+### ⚡ Fun Fact  
+
+I’m a **Mechanical Engineer turned Developer** 💡 – I once worked with **machines** ⚙️, now I build **digital solutions** 💻 that power businesses 🚀.  
 
 ---
