@@ -1,6 +1,6 @@
 # 👨‍💻 C. Balamurugan  
 
-**💡 Emerging Full Stack Web Developer | 🎨 Frontend Specialist | ☕ Backend (Java) Learner**  
+**💡 Emerging Full Stack Web Developer | 🎨 Frontend Specialist | ☕ Backend Java**  
 
 Hi there! 👋  
 I’m **C. Balamurugan**, a motivated developer who transitioned from a **Mechanical Engineering background** 🔧 into the world of **software development** 💻.  
@@ -12,7 +12,7 @@ I love building **responsive, scalable, and user-friendly applications** 🚀.
 
 - 🎨 **Frontend:** HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎  
 - 🗄️ **Database:** MySQL 📊  
-- ☕ **Backend:** Java (Spring Boot & APIs – Learning in Progress)  
+- ☕ **Backend:** Java (Spring Boot & RestAPIs)  
 
 ---
 
