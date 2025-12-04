@@ -1,93 +1,116 @@
-# 👨‍💻 C. Balamurugan  
+<!-- HEADER -->
 
-**💡 Emerging Full Stack Web Developer | 🎨 Frontend Specialist | ☕ Java Backend Developer**  
-Passionate about building **clean, scalable, and user-friendly web applications** 🚀  
+<div align="center">
 
-I transitioned from a **Mechanical Engineering background** 🔧 into the world of **software development**,  
-with strong skills in **Frontend + Java Backend + MySQL**.  
-Every project I build brings me one step closer to becoming a complete full-stack developer 🌱.
+# 👨‍💻 **C. Balamurugan**  
+### 💡 *Emerging Full Stack Web Developer*  
+🎨 *Frontend Specialist* | ☕ *Java Backend Developer*
 
----
+<br>
 
-## 💻 Tech Stack  
+🚀 *I build clean, scalable and user-friendly web applications.*  
+🔧 Transitioned from Mechanical Engineering → Software Development through passion & self-learning.
 
-### 🎨 Frontend  
-- HTML5 📝  
-- CSS3 🎨  
-- JavaScript ⚡  
-- Bootstrap 💎  
-
-### ☕ Backend  
-- Java (Core Java, OOP, Collections)  
-- Spring Boot (REST APIs)  
-
-### 🗄️ Database  
-- MySQL 📊  
-
-### 🔧 Tools  
-- Git & GitHub  
-- VS Code / Eclipse
-- Postman  
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+# 💻 Tech Stack & Tools  
 
-### 🔥 **CareerBridge – Full-Stack Career Management Platform (Backend Developer)**  
-A powerful **Spring Boot + MySQL backend** built for managing student profiles, job data, education tracking, points system, and admin analytics.  
-I worked as the **solo backend developer**, building complete REST APIs, database schema, business logic, reward engine, and admin reporting.
+<div align="center">
 
-**Key features:**  
-- 👤 User, Education & Job Profile Management  
-- ⭐ Points & Gamification Engine  
-- 💳 Withdrawal & Bank Account Integration  
-- 📊 Admin Analytics Dashboard APIs  
-- 📁 Secure File Upload API  
-- 🔗 Integrated with React (frontend team) via Axios   
+### 🎨 **Frontend**
+| HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎 |
+
+### ☕ **Backend**
+| Core Java | OOP | Collections | Spring Boot (REST APIs) |
+
+### 🗄️ **Database**
+| MySQL 📊 |
+
+### 🔧 **Tools**
+| Git & GitHub | VS Code | Eclipse | Postman |
+
+</div>
 
 ---
 
-### Other Projects
+# 🚀 Featured Project  
+
+## 🔥 **CareerBridge – Full-Stack Career Management Platform (Backend Developer)**  
+
+A powerful backend system built using **Spring Boot + MySQL**, designed to manage  
+**student profiles, job data, education history, skill analytics, points, and financial withdrawals**.
+
+I worked as the **solo backend developer**, responsible for:
+
+- 🏗️ Architecting the complete backend  
+- 🛠️ Building REST APIs (User, Education, Jobs, Points, Bank, Withdrawals)  
+- 🗄️ Designing relational database schema (MySQL)  
+- 🎯 Implementing Points & Gamification Engine  
+- 💳 Withdrawals & Bank Account Integration  
+- 📊 Admin Analytics APIs  
+- 🔗 Frontend integration (React → Axios requests)  
+
+**✨ Result:** A fully functional backend powering a career development platform used by students, job seekers, and admins.
+
+---
+
+# 📁 Other Notable Projects  
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔹 **Loklin Healthcare Platform** | Connects local vendors, clinics & citizens for essential services | HTML, CSS, JS, Bootstrap |
-| 🔹 **To-Do Registration & Task Manager** | Interactive form with task management logic | HTML, JS |
-| 🔹 **Stylish Calculator** | Modern calculator with attractive UI | HTML, CSS, JS |
-| 🔹 **Frontend Guides (HTML, CSS, Bootstrap)** | Beginner-friendly tutorials | HTML, CSS, Bootstrap |
-| 🔹 **MySQL Interview Prep** | 100+ SQL interview Q&A | MySQL |
+| 🔹 **To-Do Registration & Task Manager** | Interactive form + task management | JavaScript |
+| 🔹 **Stylish Calculator** | Beautiful responsive calculator | HTML, CSS, JS |
+| 🔹 **Frontend Guides** | Beginner-friendly HTML/CSS/Bootstrap tutorials | HTML, CSS, Bootstrap |
+| 🔹 **MySQL Interview Prep** | 100+ SQL interview questions & answers | MySQL |
 
 ---
 
-## 🌱 My Journey  
+# 🌱 My Journey  
 
-- 🎓 Completed **B.Tech Mechanical Engineering (2021)** – Pondicherry University  
-- 🔁 Shifted from **Mechanical → IT** through strong self-learning  
-- 💡 Built expertise in **Frontend → Java Backend → MySQL**  
-- ❤️ Passionate about creating real-world solutions  
-- 📈 Consistently growing as a full-stack developer  
+### 🚀 From Mechanical → Software Development  
+I completed **B.Tech Mechanical Engineering**, but discovered my passion for tech while learning independently.
+
+### 💡 How I Grew  
+- Learned **Frontend → Java Backend → Full-Stack principles**  
+- Built multiple real-world web projects  
+- Developed strong foundations in **problem-solving & clean coding**  
+- Practiced backend development daily with **Spring Boot + MySQL**
+
+### ❤️ What Drives Me  
+Creating real, meaningful applications that solve real problems and help people.
 
 ---
 
-## 🎯 What I’m Looking For  
+# 🎯 Career Goals  
 
-- 💼 **Internships** (Frontend / Backend / Full Stack)  
+I’m actively looking for:  
+- 💼 **Software Development Internships**  
 - 👨‍💻 **Junior Developer Roles**  
-- 🌟 **Freelance Projects**  
+- 🌟 **Freelance Web Development Projects**  
+
+My focus areas:  
+- Full Stack Web Development  
+- Backend Engineering (Java Spring Boot)  
+- Scalable application development  
 
 ---
 
-## ✨ Why Hire Me?  
+# ✨ Why Work With Me?
 
-✔️ Build **clean & scalable web applications**  
-✔️ Strong understanding of **Java + MySQL backend**  
-✔️ Good UI sense with **Bootstrap & JavaScript**  
-✔️ Quick learner ⚡ | Problem-solver 🧩 | Hardworking 💯  
-✔️ Successfully transitioned **Non-IT → Software Developer**  
+✔️ Write clean & maintainable code  
+✔️ Build responsive and modern UIs  
+✔️ Strong Java + MySQL backend skills  
+✔️ Excellent analytical & debugging ability  
+✔️ Fast learner | Consistent | Hardworking  
+✔️ Successfully shifted **Non-IT → IT** through dedication  
+✔️ Passionate about real-world problem solving  
 
 ---
 
-## 📫 Connect With Me  
+# 📫 Connect With Me  
 
 - 📧 **Email:** [bala032000@gmail.com](mailto:bala032000@gmail.com)  
 - 📞 **Phone:** +91-9487615909  
@@ -96,20 +119,17 @@ I worked as the **solo backend developer**, building complete REST APIs, databas
 
 ---
 
-## ⚡ Fun Fact  
+# ⚡ Fun Fact  
 
-I once worked with **machines** ⚙️…  
-Now I build **digital solutions** 💻 that help people — and I’m loving this journey 🚀.
+I used to work with **machines** ⚙️…  
+Today, I build **digital solutions** 💻 that make life easier.  
+And I’m just getting started. 🚀🔥  
 
 ---
-
-## ⭐ GitHub Stats (Optional)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baladev01&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baladev01&layout=compact&theme=tokyonight&hide_border=true)
+# ⭐ *Thanks for visiting my profile!*  
+If you like my work, consider giving a ⭐ to my repositories!
 
 </div>
-
----
