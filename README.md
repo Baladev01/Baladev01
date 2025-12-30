@@ -17,46 +17,51 @@
 </div>
 
 ---
-<div align="center">
-  
-# 💻 Tech Stack & Tools  
 
-### 🎨 **Frontend**
-| HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎 |
+## 💻 Tech Stack & Tools  
 
-### ☕ **Backend**
-| Core Java | OOP | Collections | Spring Boot (REST APIs) |
+### 🎨 Frontend
+| HTML5 | CSS3 | JavaScript | Bootstrap |
+|------|------|------------|-----------|
+| 📝 | 🎨 | ⚡ | 💎 |
 
-### 🗄️ **Database**
-| MySQL 📊 |
+### ☕ Backend
+| Core Java | OOP | Collections | Spring Boot |
+|---------|-----|-------------|-------------|
+| ☕ | 🧠 | 📚 | 🚀 |
 
-### 🔧 **Tools**
-| Git & GitHub | VS Code | Eclipse | Postman |
+### 🗄️ Database
+| MySQL |
+|------|
+| 📊 |
 
-</div>
+### 🔧 Tools
+| Git | GitHub | VS Code | Eclipse | Postman |
+|-----|--------|---------|---------|----------|
+| 🔧 | 🌐 | 💻 | 🛠️ | 📮 |
 
 ---
 
-# 🌐 Live Portfolio  
+## 🌐 Live Portfolio  
 
-🚀 Explore my complete portfolio with modern UI, animations, and real-world projects:
+🚀 Explore my complete portfolio with modern UI, animations, and real-world projects.
 
 👉 **Portfolio Website:**  
 🔗 https://baladev01.github.io/portfolio/
 
-📄 **Portfolio Highlights:**
-- Professional animated UI
-- Full Stack project showcase
-- Resume download
-- GitHub & LinkedIn integration
-- Mobile responsive design
+### 📄 Portfolio Highlights
+- Professional animated UI  
+- Full Stack project showcase  
+- Resume download  
+- GitHub & LinkedIn integration  
+- Mobile-responsive design  
 
 ---
 
-# 🚀 Featured Project  
+## 🚀 Featured Project  
 
-## 🔥 **CareerBridge – Full-Stack Career Management Platform**  
-*(Backend Developer)*
+### 🔥 **CareerBridge – Full-Stack Career Management Platform**  
+**Role:** Backend Developer  
 
 A powerful backend system built using **Spring Boot + MySQL**, designed to manage:
 
@@ -68,57 +73,91 @@ A powerful backend system built using **Spring Boot + MySQL**, designed to manag
 - Bank Details & Withdrawals  
 - Admin Analytics  
 
-### 👨‍💻 My Role
-I worked as the **solo backend developer**, responsible for:
-
-- 🏗️ Architecting the complete backend  
-- 🛠️ Building REST APIs (User, Education, Jobs, Points, Bank, Withdrawals)  
-- 🗄️ Designing relational database schema (MySQL)  
-- 🎯 Implementing Points & Gamification Engine  
-- 💳 Withdrawals & Bank Account Integration  
-- 📊 Admin Analytics APIs  
-- 🔗 Frontend integration (React → Axios requests)  
+### 👨‍💻 My Responsibilities
+- 🏗️ Designed complete backend architecture  
+- 🛠️ Built REST APIs (User, Education, Jobs, Points, Bank, Withdrawals)  
+- 🗄️ Designed relational database schema (MySQL)  
+- 🎯 Implemented Points & Gamification Engine  
+- 💳 Bank & Withdrawal module integration  
+- 📊 Admin analytics APIs  
+- 🔗 Integrated frontend using React (Axios)
 
 ✨ **Result:**  
-A fully functional backend powering a career development platform used by students, job seekers, and admins.
+A fully functional backend powering a career development platform for students, job seekers, and admins.
 
 ---
 
-# 📁 Other Notable Projects  
+## 📁 Projects  
 
-| Project | Description | Tech |
-|-------|-------------|------|
-| 🔹 **Loklin Healthcare Platform** | Connects local vendors, clinics & citizens for essential services | HTML, CSS, JS, Bootstrap |
-| 🔹 **To-Do Registration & Task Manager** | Interactive form + task management | JavaScript |
-| 🔹 **Stylish Calculator** | Beautiful responsive calculator | HTML, CSS, JS |
-| 🔹 **Frontend Guides** | Beginner-friendly HTML/CSS/Bootstrap tutorials | HTML, CSS, Bootstrap |
-| 🔹 **MySQL Interview Prep** | 100+ SQL interview questions & answers | MySQL |
+### 🔐 Spring Boot Menu Based Login & Signup Application  
+**Technologies:** Java, Spring Boot, Spring Data JPA, MySQL, Maven  
+
+- Developed a console-based backend application with **Signup, Login, and CRUD operations**  
+- Applied **layered architecture** (Entity, Repository, Service)  
+- Used **Spring Data JPA & Hibernate** for database persistence  
+- Focused on clean, scalable backend design  
 
 ---
 
-# 🌱 My Journey  
+### 🔐 JDBC Menu Based Login & Signup Application  
+**Technologies:** Java, JDBC, MySQL, Stored Procedures  
 
-### 🚀 From Mechanical → Software Development  
-I completed **B.Tech Mechanical Engineering**, but discovered my passion for technology through self-learning and hands-on practice.
+- Built a Java backend console application using **JDBC**  
+- Implemented authentication and database operations  
+- Used **MySQL Stored Procedures** with `CallableStatement`  
+- Ensured secure and structured data access  
 
-### 💡 How I Grew  
-- Learned **Frontend → Java Backend → Full Stack** concepts  
-- Built multiple real-world projects  
+---
+
+### 📝 Student Registration Form Web Application  
+**Technologies:** HTML, CSS, Bootstrap, JavaScript  
+
+- Developed a responsive frontend web application  
+- Implemented **form validation** using JavaScript  
+- Used **DOM manipulation** and **Local Storage**  
+- Enhanced user experience with clean UI design  
+
+---
+
+### 🏥 Loklin Healthcare Platform  
+**Technologies:** HTML, CSS, JavaScript, Bootstrap  
+
+- Built a frontend platform connecting **local vendors, clinics, and citizens**  
+- Designed responsive pages using Bootstrap  
+- Improved accessibility and usability  
+
+---
+
+### 📊 MySQL Interview Preparation Project  
+**Technologies:** MySQL  
+
+- Created **100+ SQL interview questions & answers**  
+- Covered joins, subqueries, constraints, and optimization concepts  
+
+---
+
+## 🌱 My Journey  
+
+### 🚀 Mechanical → Software Development  
+Completed **B.Tech Mechanical Engineering**, later discovered passion for software through self-learning and projects.
+
+### 💡 How I Grew
+- Learned **Frontend → Java Backend → Full Stack**  
+- Built multiple real-world applications  
 - Strengthened **problem-solving & clean coding** skills  
-- Practiced backend development daily using **Spring Boot + MySQL**
+- Daily backend practice using **Spring Boot + MySQL**
 
-### ❤️ What Drives Me  
-Creating meaningful applications that solve real-world problems and help people.
+### ❤️ What Drives Me
+Building meaningful applications that solve real-world problems.
 
 ---
 
-# 🎯 Career Goals  
+## 🎯 Career Goals  
 
-I’m actively looking for:
-
-- 💼 **Software Development Internships**  
-- 👨‍💻 **Junior Developer Roles**  
-- 🌟 **Freelance Web Development Projects**
+I’m actively seeking:
+- 💼 Software Development Internships  
+- 👨‍💻 Junior Developer Roles  
+- 🌟 Freelance Web Development Projects  
 
 ### 🔍 Focus Areas
 - Full Stack Web Development  
@@ -127,19 +166,19 @@ I’m actively looking for:
 
 ---
 
-# ✨ Why Work With Me?
+## ✨ Why Work With Me?
 
-✔️ Write clean & maintainable code  
-✔️ Build responsive and modern UIs  
-✔️ Strong Java + MySQL backend skills  
-✔️ Excellent analytical & debugging ability  
-✔️ Fast learner | Consistent | Hardworking  
-✔️ Successfully shifted **Non-IT → IT**  
-✔️ Passionate about real-world problem solving  
+- ✔️ Clean & maintainable code  
+- ✔️ Responsive, modern UI development  
+- ✔️ Strong Java + MySQL backend skills  
+- ✔️ Excellent debugging & analytical ability  
+- ✔️ Fast learner & consistent performer  
+- ✔️ Successfully transitioned **Non-IT → IT**  
+- ✔️ Passionate about problem solving  
 
 ---
 
-# 📫 Connect With Me  
+## 📫 Connect With Me  
 
 - 🌐 **Portfolio:** https://baladev01.github.io/portfolio/  
 - 📧 **Email:** [bala032000@gmail.com](mailto:bala032000@gmail.com)  
@@ -149,17 +188,17 @@ I’m actively looking for:
 
 ---
 
-# ⚡ Fun Fact  
+## ⚡ Fun Fact  
 
 I used to work with **machines** ⚙️  
 Now, I build **digital solutions** 💻  
-And I’m just getting started. 🚀🔥  
+And I’m just getting started 🚀🔥  
 
 ---
 
 <div align="center">
 
-# ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!  
 If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
