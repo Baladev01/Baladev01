@@ -6,10 +6,13 @@
 ### 💡 *Emerging Full Stack Web Developer*  
 🎨 *Frontend Specialist* | ☕ *Java Backend Developer*
 
+🚀 **Live Portfolio:**  
+🌐 https://baladev01.github.io/portfolio/
+
 <br>
 
 🚀 *I build clean, scalable and user-friendly web applications.*  
-🔧 Transitioned from Mechanical Engineering → Software Development through passion & self-learning.
+🔧 Transitioned from **Mechanical Engineering → Software Development** through passion & self-learning.
 
 </div>
 
@@ -35,13 +38,38 @@
 
 ---
 
+# 🌐 Live Portfolio  
+
+🚀 Explore my complete portfolio with modern UI, animations, and real-world projects:
+
+👉 **Portfolio Website:**  
+🔗 https://baladev01.github.io/portfolio/
+
+📄 **Portfolio Highlights:**
+- Professional animated UI
+- Full Stack project showcase
+- Resume download
+- GitHub & LinkedIn integration
+- Mobile responsive design
+
+---
+
 # 🚀 Featured Project  
 
-## 🔥 **CareerBridge – Full-Stack Career Management Platform (Backend Developer)**  
+## 🔥 **CareerBridge – Full-Stack Career Management Platform**  
+*(Backend Developer)*
 
-A powerful backend system built using **Spring Boot + MySQL**, designed to manage  
-**student profiles, job data, education history, skill analytics, points, and financial withdrawals**.
+A powerful backend system built using **Spring Boot + MySQL**, designed to manage:
 
+- Student Profiles  
+- Job Listings  
+- Education History  
+- Skill Analytics  
+- Points & Gamification  
+- Bank Details & Withdrawals  
+- Admin Analytics  
+
+### 👨‍💻 My Role
 I worked as the **solo backend developer**, responsible for:
 
 - 🏗️ Architecting the complete backend  
@@ -52,14 +80,15 @@ I worked as the **solo backend developer**, responsible for:
 - 📊 Admin Analytics APIs  
 - 🔗 Frontend integration (React → Axios requests)  
 
-**✨ Result:** A fully functional backend powering a career development platform used by students, job seekers, and admins.
+✨ **Result:**  
+A fully functional backend powering a career development platform used by students, job seekers, and admins.
 
 ---
 
 # 📁 Other Notable Projects  
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|-------|-------------|------|
 | 🔹 **Loklin Healthcare Platform** | Connects local vendors, clinics & citizens for essential services | HTML, CSS, JS, Bootstrap |
 | 🔹 **To-Do Registration & Task Manager** | Interactive form + task management | JavaScript |
 | 🔹 **Stylish Calculator** | Beautiful responsive calculator | HTML, CSS, JS |
@@ -71,30 +100,31 @@ I worked as the **solo backend developer**, responsible for:
 # 🌱 My Journey  
 
 ### 🚀 From Mechanical → Software Development  
-I completed **B.Tech Mechanical Engineering**, but discovered my passion for tech while learning independently.
+I completed **B.Tech Mechanical Engineering**, but discovered my passion for technology through self-learning and hands-on practice.
 
 ### 💡 How I Grew  
-- Learned **Frontend → Java Backend → Full-Stack principles**  
-- Built multiple real-world web projects  
-- Developed strong foundations in **problem-solving & clean coding**  
-- Practiced backend development daily with **Spring Boot + MySQL**
+- Learned **Frontend → Java Backend → Full Stack** concepts  
+- Built multiple real-world projects  
+- Strengthened **problem-solving & clean coding** skills  
+- Practiced backend development daily using **Spring Boot + MySQL**
 
 ### ❤️ What Drives Me  
-Creating real, meaningful applications that solve real problems and help people.
+Creating meaningful applications that solve real-world problems and help people.
 
 ---
 
 # 🎯 Career Goals  
 
-I’m actively looking for:  
+I’m actively looking for:
+
 - 💼 **Software Development Internships**  
 - 👨‍💻 **Junior Developer Roles**  
-- 🌟 **Freelance Web Development Projects**  
+- 🌟 **Freelance Web Development Projects**
 
-My focus areas:  
+### 🔍 Focus Areas
 - Full Stack Web Development  
 - Backend Engineering (Java Spring Boot)  
-- Scalable application development  
+- Scalable & maintainable applications  
 
 ---
 
@@ -105,31 +135,32 @@ My focus areas:
 ✔️ Strong Java + MySQL backend skills  
 ✔️ Excellent analytical & debugging ability  
 ✔️ Fast learner | Consistent | Hardworking  
-✔️ Successfully shifted **Non-IT → IT** through dedication  
+✔️ Successfully shifted **Non-IT → IT**  
 ✔️ Passionate about real-world problem solving  
 
 ---
 
 # 📫 Connect With Me  
 
+- 🌐 **Portfolio:** https://baladev01.github.io/portfolio/  
 - 📧 **Email:** [bala032000@gmail.com](mailto:bala032000@gmail.com)  
 - 📞 **Phone:** +91-9487615909  
-- 🔗 **GitHub:** [github.com/Baladev01](https://github.com/Baladev01)  
-- 💼 **LinkedIn:** [linkedin.com/in/balamurugan-webdeveloper](https://linkedin.com/in/balamurugan-webdeveloper)  
+- 🔗 **GitHub:** https://github.com/Baladev01  
+- 💼 **LinkedIn:** https://linkedin.com/in/balamurugan-webdeveloper  
 
 ---
 
 # ⚡ Fun Fact  
 
-I used to work with **machines** ⚙️…  
-Today, I build **digital solutions** 💻 that make life easier.  
+I used to work with **machines** ⚙️  
+Now, I build **digital solutions** 💻  
 And I’m just getting started. 🚀🔥  
 
 ---
 
 <div align="center">
 
-# ⭐ *Thanks for visiting my profile!*  
-If you like my work, consider giving a ⭐ to my repositories!
+# ⭐ Thanks for visiting my profile!
+If you like my work, consider giving a ⭐ to my repositories.
 
 </div>
