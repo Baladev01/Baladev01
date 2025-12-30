@@ -17,10 +17,9 @@
 </div>
 
 ---
-
-# 💻 Tech Stack & Tools  
-
 <div align="center">
+  
+# 💻 Tech Stack & Tools  
 
 ### 🎨 **Frontend**
 | HTML5 📝 | CSS3 🎨 | JavaScript ⚡ | Bootstrap 💎 |
